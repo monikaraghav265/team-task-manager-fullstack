@@ -272,11 +272,3 @@ For assignment/demo testing, `ALLOW_DEMO_RESET_LINK=true` returns a reset link i
 ALLOW_DEMO_RESET_LINK=false
 ```
 
-## Submission Checklist
-
-- [ ] Live Railway URL
-- [ ] GitHub repository URL
-- [ ] README included
-- [ ] Demo video of 2–5 minutes
-- [ ] App fully functional
-- [ ] Environment variables configured
